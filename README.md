@@ -1,6 +1,6 @@
 # Unity-Challenge-4
 
-You can play my game by clicking [this link](https://play.unity.com/mg/other/webgl-builds-400718).
+You can play my game by clicking [this link](https://play.unity.com/mg/other/webgl-builds-402945).
 
 ## Screenshot from project 
 
